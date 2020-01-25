@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  margin: 5px 10px;
+  border-radius: 10px;
+  font-size: 26px;
+  font-family: arial;
+  border: 2px solid black;
+  background-color: #ccc;
+}
+h5 {
+  margin: 15px auto;
+}
